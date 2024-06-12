@@ -31,11 +31,11 @@
             //Console.WriteLine(o1); 
             #endregion
             #region Parsing
-            Console.WriteLine("Enter a number:");
-            int num = int.Parse(Console.ReadLine());
-            int num_2 = Convert.ToInt32(num.ToString());
-            bool flag = Convert.ToBoolean("FALSE");
-            Console.WriteLine(flag); 
+            //Console.WriteLine("Enter a number:");
+            //int num = int.Parse(Console.ReadLine());
+            //int num_2 = Convert.ToInt32(num.ToString());
+            //bool flag = Convert.ToBoolean("FALSE");
+            //Console.WriteLine(flag); 
             #endregion
         }
     }
